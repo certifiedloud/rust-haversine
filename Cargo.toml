@@ -1,0 +1,6 @@
+[package]
+name = "haversine"
+version = "0.1.0"
+authors = ["Cody Heimberger <certifiedloud@gmail.com>"]
+
+[dependencies]
